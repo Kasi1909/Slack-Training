@@ -1,0 +1,28 @@
+{
+  "name": "slack-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kasi1909/Slack-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kasi1909/Slack-Training/issues"
+  },
+  "homepage": "https://github.com/Kasi1909/Slack-Training#readme",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
